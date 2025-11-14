@@ -1,5 +1,4 @@
 // src/api/productsAPI.js
-import { customProducts } from "./customProducts";
 
 const API_URL = "https://dummyjson.com/products?limit=100";
 
